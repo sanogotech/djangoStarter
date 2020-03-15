@@ -2,6 +2,7 @@
 
  ## Tutorial
  https://www.geeksforgeeks.org/django-tutorial/
+ https://www.geeksforgeeks.org/ultimate-guide-git-github/
  
  * One should be using Django for web development in the following cases:
 - For developing a Web Application or API Backend
