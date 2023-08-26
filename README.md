@@ -3,6 +3,11 @@
 ## Vidéos Django 
 
 * https://youtu.be/Bn0k9DDYBZM?si=IiAk8WkNn4g4UrYm
+
+## Pattern MVT 
+
+- Model View Template / Route
+  
  ## Tutorial
  https://www.geeksforgeeks.org/django-tutorial/
  https://www.geeksforgeeks.org/ultimate-guide-git-github/
